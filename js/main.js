@@ -1,5 +1,7 @@
 'use scrict';
 
+//to jest stala w JS
+
 const btn = document.querySelector('header a');
 
 const h1 = document.querySelector('header h1');
